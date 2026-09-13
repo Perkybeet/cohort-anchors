@@ -1,0 +1,11 @@
+{
+ "cohort": "live0213",
+ "day": "2026-09-12",
+ "log_prefix_sha256": "2797addc360bf09eef75853eddbd3763b7ecc35bc5dfb842be50549c90f28792",
+ "log_rows": 67146,
+ "manifest_row_hash": "976335fd19aca929193403b70a5c16acdc50a6ebe7af87336103a5774c5a339e",
+ "rows": 31398,
+ "schema": "v0212-daily-digest-1",
+ "sha256": "a7e6cd95a1b5e7c91304ebab421f61cf3d473456a822003ae3aba733c6452a86",
+ "version": "v0.2.12"
+}
